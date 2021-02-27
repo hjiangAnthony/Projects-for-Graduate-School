@@ -60,7 +60,7 @@ The background of this study is that:
 
 The author believed that UBI has positive effect in reducing the crime rates (i.e., robbery, illegal hunting, and burglar) by lessening the income gap, improving good future expectancy, and strengthening trust in the government & judiciary. The argument was supported with a mathematical tool called `UEC (UBI Effect on Crime Rates)`, which used linear regression method such that its mathematical expectation can be verified by existing studies about UBI.
 
-The UEC model is designed based on  
+The UEC model is designed based on the statistical models from Prof. Gary Becker and Fajnzylber et al. in their studies of crimes and economics.
 
 One big challenge of this study was that there were limited empirical studies as a large sample to perform casual analysis. Countries like Namibia, Canada, India, and the U.S. had their own experiments, however, couldn't be simply compared together due to the diverse social-economic and cultural differences. In addition, the impact from UBI to crime rates also required tools in time-series analysis. The author used the first difference method to address the influence from time trends, and performed seperately to each experiments.
 
