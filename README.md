@@ -3,7 +3,7 @@ Writing samples &amp; projects for graduate school application
 
 Hello! This is the guide about my two research projects: a study about Universal Basic Income (UBI) and its effects on crime rates; 
 and a data analysis & policy advising paper about a NYC community with deviant infectious data of COVID-19 in early 2020. 
-They are accomplished with my acknowledgement to Prof. Daniel Kapust and Prof. Christopher McKelvey & Omer Arain, respectively.
+They are accomplished with the help from Prof. Daniel Kapust and Prof. Christopher McKelvey & Omer Arain, respectively.
 
 If you are interested in the UBI study, you can get the paper at [Writing Sample-UBI study](https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/Writing%20Sample-UBI%20and%20Crime%20Rate.pdf).
 
@@ -67,7 +67,7 @@ One big challenge of this study was that there were limited empirical studies as
 The conlusion is that: 
 >Overall, the UBI effect predicted by UEC model is verified both in terms of economic conditions and different time scales. In developing countries, UBI seems to have relatively more instant and obvious effect in reducing poverty and economic crime rates. In long period, UBI is believed to be helpful in lessening poverty crime, though the amount of UBI is also a crucial factor to consider.
 
-Indeed, the UBI study still lacks universal acknowledgement because it doesn't have sufficient empirical data--it is difficult, by nature, since UBI trails requires enormous investment. However, institutions like the United Nation Development and Programme (UNDP) is calling for methods of [Temporary Basic Income (TBI)](https://www.undp.org/content/undp/en/home/news-centre/news/2020/Temporary_Basic_Income_to_protect_the_worlds_poorest_people_slow_COVID19.html) to act against the COVID-19 for developing countries. I feel that my study can be of some help to their efforts to alleviate sufferings due to COVID-19, with knowledge of data science, economics and politics.
+Indeed, the UBI study still lacks universal acknowledgement because it doesn't have sufficient empirical data--it is difficult, by nature, since UBI trails requires enormous investment. However, I believe UBI will play a more important role in the future because institutions like the United Nation Development and Programme (UNDP) have already been calling for methods of [Temporary Basic Income (TBI)](https://www.undp.org/content/undp/en/home/news-centre/news/2020/Temporary_Basic_Income_to_protect_the_worlds_poorest_people_slow_COVID19.html) to act against the COVID-19 for developing countries. I feel that my study can be of some help to their efforts to alleviate sufferings due to COVID-19, with knowledge of data science, economics and politics.
 
 Additionally, despite my acknowledgement to Prof. Kapust et al., I also want to say 'thank you' to Prof. Erik O. Wright (who passed away in 2019) and Prof. Harry Brighthouse, for not only inspiring me with their marvelous studies on social equality, but also their warmheartedness and generosity to teach young students. Although there are lots of obstablces to overcome in my future study, I feel lucky that I've met brilliant people like them.
 
