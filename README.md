@@ -31,6 +31,7 @@ I spotted Corona by both sources from the press and data visualization. By compa
 Figure 1: COVID-19 data by ZIP code
 
 ![image](https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-2.png)
+
 Figure 2: Predominant race by tract
 
 I argued that the contributors of this pandemic are not race but poverty, reliance on public transportation, lack of health insurance for employed labor, and community-wise inequality. The entire paper can be summarized as:
