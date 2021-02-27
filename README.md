@@ -43,13 +43,13 @@ I argued that the contributors of this pandemic are not race but poverty, relian
 based on independent research with methods like IV, DID and Partialling-out 
 - Provided data analysis and a policy alternative matrix for NYC government
 
-Based on my analysis, I provided a policy alternative matrix (a common tool in public policy) for the NYC government, including short-term and long-term policy decisions.
+Based on my analysis, I also provided a policy alternative matrix (a common tool in public policy) for the NYC government, including short-term and long-term policy decisions.
 
 <div align="center" >
 <img width="500" height="300" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-4.png" />
 </div>
 
-
+Data can be so deciptive that people might even draw opposite conclusions based on the same data. Through this project, I explored how to use statistical methods to test hypothesis and utilize regressional analysis for policy advising. This is a primary case of data analysis, which means it could get more complicated if the data reaches the level of Big Data. It is interesting and exciting to practice such analysis because it provides valuable information for policy decisions. I thus hope to proceed studies like this with a more advanced toolbox in data science. 
 
 
 
