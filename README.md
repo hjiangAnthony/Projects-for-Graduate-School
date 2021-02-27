@@ -21,7 +21,7 @@ About the EconEX project:
 >internships. The goal of the program is to offer structured, professional learning opportunities for economics
 >students to build marketable skills, knowledge, and experience under mentorship and guidance.
 
-About my data analysis project: <u> COVID-19 Early Outbreak in NYC: Factors in High Community Infection Rate </u>
+About my data analysis project: *COVID-19 Early Outbreak in NYC: Factors in High Community Infection Rate*
 
 
 
