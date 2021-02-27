@@ -71,4 +71,4 @@ Indeed, the UBI study still lacks universal acknowledgement because it doesn't h
 
 Additionally, despite my acknowledgement to Prof. Kapust et al., I also want to say 'thank you' to Prof. Erik O. Wright (who passed away in 2019) and Prof. Harry Brighthouse, for not only inspiring me with their marvelous studies on social equality, but also their warmheartedness and generosity to teach young students. Although there are lots of obstablces to overcome in my future study, I feel lucky that I've met brilliant people like them.
 
-#Thank you for your consideration in my application!
+# Thank you for your consideration in my application!
