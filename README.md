@@ -64,4 +64,9 @@ The UEC model is designed based on
 
 One big challenge of this study was that there were limited empirical studies as a large sample to perform casual analysis. Countries like Namibia, Canada, India, and the U.S. had their own experiments, however, couldn't be simply compared together due to the diverse social-economic and cultural differences. In addition, the impact from UBI to crime rates also required tools in time-series analysis. The author used the first difference method to address the influence from time trends, and performed seperately to each experiments.
 
+The conlusion is that: 
+>Overall, the UBI effect predicted by UEC model is verified both in terms of economic conditions and different time scales. In developing countries, UBI seems to have relatively more instant and obvious effect in reducing poverty and economic crime rates. In long period, UBI is believed to be helpful in lessening poverty crime, though the amount of UBI is also a crucial factor to consider.
+
+Although the UBI study still lacks sufficient empirical data--it is difficult, by nature, since UBI trails requires enormous investment. However, institutions like the United Nation Development and Programme (UNDP) is calling for methods of [Temporary Basic Income (TBI)](https://www.undp.org/content/undp/en/home/news-centre/news/2020/Temporary_Basic_Income_to_protect_the_worlds_poorest_people_slow_COVID19.html) to act against the COVID-19 for developing countries. I feel that my study can be of some help to their efforts to alleviate sufferings due to COVID-19, with knowledge of data science, economics and politics.
+
 Thank you for your consideration in my application!
