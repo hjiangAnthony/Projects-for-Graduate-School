@@ -11,7 +11,9 @@ If you are interested in the Data Analysis projects about NYC COVID-19, you can 
 [EconEX Report](https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/Writing%20Sample-EconEX%20Data%20Analysis.pdf)
 and the slides at [EconEX Slides](https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/Writing%20Sample%20-%20EconEX%20Han%20Jiang%20Slides.pdf).
 
-## EconEX: Data Analysis
+I provide brief summaries of the two projects as below:
+
+## Project I: EconEX-Data Analysis
 
 About the EconEX project:
 
@@ -51,6 +53,12 @@ Based on my analysis, I also provided a policy alternative matrix (a common tool
 
 Data can be so deciptive that people might even draw opposite conclusions based on the same data. Through this project, I explored how to use statistical methods to test hypothesis and utilize regressional analysis for policy advising. This is a primary case of data analysis, which means it could get more complicated if the data reaches the level of Big Data. It is interesting and exciting to practice such analysis because it provides valuable information for policy decisions. I thus hope to proceed studies like this with a more advanced toolbox in data science. 
 
+## Project II: Universal Basic Income and Its Effects on Economic Crime Rate
+
+The background of this study is that:
+>The Universal Basic Income (UBI) has been proposed since decades ago. As a proposal forcurrent redistribution system which is a reform of previous welfare policies. The goal of it is to reduce income gap, promote individual liberty, and alleviate the tensions from issues due to social-economic inequality in the society—especially the issue related to income inequality.
+
+The author believed that UBI has positive effect in reducing the crime rates by lessening the income gap, improving good future expectancy, and strengthening trust in the government & judiciary. The argument was supported with a mathematical tool using linear regression method whose mathematical expectation can be verified by existing studies about UBI.
 
 
 
