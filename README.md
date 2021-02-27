@@ -14,11 +14,11 @@ and the slides at [EconEX Slides](https://github.com/hjiangAnthony/Projects-for-
 
 About the EconEX project:
 
-After learning that many summer internship programs were cancelled due to COVID-19, the Economics
-Department developed project ideas in collaboration with alumni and recruited alumni and
-faculty to serve as mentors so our students can explore potential careers and build skills for future jobs and
-internships. The goal of the program is to offer structured, professional learning opportunities for economics
-students to build marketable skills, knowledge, and experience under mentorship and guidance.
+>After learning that many summer internship programs were cancelled due to COVID-19, the Economics
+>Department developed project ideas in collaboration with alumni and recruited alumni and
+>faculty to serve as mentors so our students can explore potential careers and build skills for future jobs and
+>internships. The goal of the program is to offer structured, professional learning opportunities for economics
+>students to build marketable skills, knowledge, and experience under mentorship and guidance.
 
 
 
