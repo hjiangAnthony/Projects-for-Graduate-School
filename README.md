@@ -27,11 +27,14 @@ The main focus is on a neighborhood called `Corona`. Despite the unfortunate coi
 
 I spotted Corona by both sources from the press and data visualization. By comparing the distribution of ethnic minority and COVID-19 data, it indicated that non-white community had high rates of death, infection and hospitalization. 
 
-<img width="900" height="400" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-1.png"/>
+<img width="700" height="400" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-1.png"/>
 
 Figure 1: COVID-19 data by ZIP code
 
-![Figure 2: Predominant race by tract](https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-2.png)
+<img width="400" height="400" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-2.png"/>
+
+Figure 2: Predominant race by tract
+
 
 I argued that the contributors of this pandemic are not race but poverty, reliance on public transportation, lack of health insurance for employed labor, and community-wise inequality. The entire paper can be summarized as:
 - Performed data visualization methods to estimate the impact from COVID-19 to NYC
