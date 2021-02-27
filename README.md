@@ -69,4 +69,6 @@ The conlusion is that:
 
 Indeed, the UBI study still lacks universal acknowledgement because it doesn't have sufficient empirical data--it is difficult, by nature, since UBI trails requires enormous investment. However, institutions like the United Nation Development and Programme (UNDP) is calling for methods of [Temporary Basic Income (TBI)](https://www.undp.org/content/undp/en/home/news-centre/news/2020/Temporary_Basic_Income_to_protect_the_worlds_poorest_people_slow_COVID19.html) to act against the COVID-19 for developing countries. I feel that my study can be of some help to their efforts to alleviate sufferings due to COVID-19, with knowledge of data science, economics and politics.
 
-Thank you for your consideration in my application!
+Additionally, despite my acknowledgement to Prof. Kapust et al., I also want to say 'thank you' to Prof. Erik O. Wright (who passed away in 2019) and Prof. Harry Brighthouse, for not only inspiring me with their marvelous studies on social equality, but also their warmheartedness and generosity to teach young students. Although there are lots of obstablces to overcome in my future study, I feel lucky that I've met brilliant people like them.
+
+#Thank you for your consideration in my application!
