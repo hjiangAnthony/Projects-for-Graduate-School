@@ -45,8 +45,9 @@ based on independent research with methods like IV, DID and Partialling-out
 
 Based on my analysis, I provided a policy alternative matrix (a common tool in public policy) for the NYC government, including short-term and long-term policy decisions.
 
-<img width="500" height="300" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-4.png" align=center />
-
+<div align="center" >
+<img width="500" height="300" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-4.png" />
+</div>
 
 
 
