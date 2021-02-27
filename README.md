@@ -27,7 +27,8 @@ The main focus is on a neighborhood called `Corona`. Despite the unfortunate coi
 
 I spotted Corona by both sources from the press and data visualization. By comparing the distribution of ethnic minority and COVID-19 data, it indicated that non-white community had high rates of death, infection and hospitalization. 
 
-![image](https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-1.png)
+<img width="150" height="150" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-1.png"/>
+
 Figure 1: COVID-19 data by ZIP code
 
 ![image](https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-2.png)
@@ -40,7 +41,7 @@ I argued that the contributors of this pandemic are not race but poverty, relian
 based on independent research with methods like IV, DID and Partialling-out 
 - Provided data analysis and a policy alternative matrix for NYC government
 
-
+As for programming tools, I used python for mapping and Stata for OLS regression.
 
 
 
