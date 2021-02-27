@@ -51,7 +51,7 @@ Based on my analysis, I also provided a policy alternative matrix (a common tool
 <img width="500" height="300" src="https://github.com/hjiangAnthony/Projects-for-Graduate-School/blob/main/IMAGES/IMG-4.png" />
 </div>
 
-Data can be so deciptive that people might even draw opposite conclusions based on the same data. Through this project, I explored how to use statistical methods to test hypothesis and utilize regressional analysis for policy advising. This is a primary case of data analysis, which means it could get more complicated if the data reaches the level of Big Data. It is interesting and exciting to practice such analysis because it provides valuable information for policy decisions. I thus hope to proceed studies like this with a more advanced toolbox in data science. 
+I felt that data can be so deciptive that people might even draw opposite conclusions based on the same data, which reveals the importance of skills in quantitative analysis. Through this project, I explored how to use statistical methods to test hypothesis and utilize regressional analysis for policy advising. This is a primary case of data analysis, which means it could get more complicated if the data reaches the level of Big Data. It is interesting and exciting to practice such analysis because it provides valuable information for policy decisions. I thus hope to proceed studies like this with a more advanced toolbox in data science. 
 
 ## Project II: Universal Basic Income and Its Effects on Economic Crime Rate
 
@@ -62,7 +62,7 @@ The author believed that UBI has positive effect in reducing the crime rates (i.
 
 The UEC model is designed based on the statistical models from Prof. Gary Becker and Fajnzylber et al. in their studies of crimes and economics.
 
-One big challenge of this study was that there were limited empirical studies as a large sample to perform casual analysis. Countries like Namibia, Canada, India, and the U.S. had their own experiments, however, the data couldn't be simply compared together due to the diverse social-economic and cultural differences. In addition, the impact from UBI to crime rates also required tools in time-series analysis. The author used the first difference method to address the influence from time trends, and performed seperately to each experiments.
+One big challenge of this study was that there were limited empirical studies as a large sample to perform casual analysis. Countries like Namibia, Canada, India, and the U.S. had their own experiments, however, the data couldn't be simply compared together due to the diverse social-economic and cultural differences. In addition, the impact from UBI to crime rates also required tools in time-series analysis. The author used the first difference method to address the influence from time trends, and performed this method seperately to each experiments.
 
 The conlusion is that: 
 >Overall, the UBI effect predicted by UEC model is verified both in terms of economic conditions and different time scales. In developing countries, UBI seems to have relatively more instant and obvious effect in reducing poverty and economic crime rates. In long period, UBI is believed to be helpful in lessening poverty crime, though the amount of UBI is also a crucial factor to consider.
