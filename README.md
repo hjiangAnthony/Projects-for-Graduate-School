@@ -58,8 +58,8 @@ Data can be so deciptive that people might even draw opposite conclusions based 
 The background of this study is that:
 >The Universal Basic Income (UBI) has been proposed since decades ago. As a proposal forcurrent redistribution system which is a reform of previous welfare policies. The goal of it is to reduce income gap, promote individual liberty, and alleviate the tensions from issues due to social-economic inequality in the society—especially the issue related to income inequality.
 
-The author believed that UBI has positive effect in reducing the crime rates by lessening the income gap, improving good future expectancy, and strengthening trust in the government & judiciary. The argument was supported with a mathematical tool using linear regression method whose mathematical expectation can be verified by existing studies about UBI.
+The author believed that UBI has positive effect in reducing the crime rates by lessening the income gap, improving good future expectancy, and strengthening trust in the government & judiciary. The argument was supported with a mathematical tool called `UEC (UBI Effect on Crime Rates)`, which used linear regression method such that its mathematical expectation can be verified by existing studies about UBI.
 
-
+One big challenge of this study was that there were limited empirical studies 
 
 Thank you for your consideration in my application!
